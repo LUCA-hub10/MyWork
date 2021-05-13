@@ -1,0 +1,3 @@
+function {z} = MyAdditionfunction(x,y)
+%this is function simply adds two numbers together
+z = x + y;
